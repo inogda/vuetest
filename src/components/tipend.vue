@@ -1,5 +1,5 @@
 <template>
-    <div>Файл tipend.vue</div>
+<!--    <div>Файл tipend.vue</div>-->
 
   <div class="onboarding-step-select-icons-container">
     <div class="row">

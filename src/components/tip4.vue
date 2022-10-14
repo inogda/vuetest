@@ -1,5 +1,5 @@
 <template>
-<!--  <div>Файл tip2.vue</div>-->
+<!--  <div>Файл tip4.vue</div>-->
 
   <div class="onboarding-signup-container">
     <div class="flex">
